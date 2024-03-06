@@ -1,4 +1,4 @@
-# Repositório do DBT utilizado para o repositorio 
+# Repositório do DBT utilizado para o repositorio https://github.com/gsvimieiro/POC_Airbyte_Airflow_DBT_SnowFlake
 
 Tarefas :
 
